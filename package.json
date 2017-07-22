@@ -1,0 +1,23 @@
+{
+  "name": "fullstack",
+  "version": "1.0.1",
+  "description": "fullstack angular app",
+  "main": "index.html",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "fullstack",
+    "angular",
+    "joshua",
+    "api"
+  ],
+  "author": "joshua",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-sweetalert": "^1.1.2",
+    "bootstrap": "^3.3.7",
+    "sweetalert": "^1.1.3"
+  }
+}
